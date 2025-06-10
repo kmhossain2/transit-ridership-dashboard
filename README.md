@@ -16,7 +16,8 @@ This beginner-friendly Python project analyzes TTC (Toronto Transit Commission) 
 
 ## 📊 Visualization Example
 
-(Insert a screenshot of your chart here)
+![image](https://github.com/user-attachments/assets/319fd90a-ec77-4786-9248-7e4d3d036a4b)
+
 
 ## 🚀 Tools Used
 - Python
